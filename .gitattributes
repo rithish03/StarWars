@@ -1,3 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 StarWarsAnimation.zip filter=lfs diff=lfs merge=lfs -text
+StarWarsAnimation_2.7z.001 filter=lfs diff=lfs merge=lfs -text
+StarWarsAnimation_2.7z.002 filter=lfs diff=lfs merge=lfs -text
+StarWarsAnimation_2.7z.003 filter=lfs diff=lfs merge=lfs -text
